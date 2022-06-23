@@ -1,1 +1,1 @@
-# DSSU_Docs.github.io
+# DSSU Documentation and Best Practices
